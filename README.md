@@ -38,7 +38,8 @@ tiny有两层yolo层，正常的有三层，每层预置3个锚盒，所以锚�
 修改test.py，控制测试时候的输出
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/f5a02354c8f144aea50fc246aee3067d.png?x-oss-process=image/watermark,type_d3F5LXplbmhlaQ,shadow_50,text_Q1NETiBA5b-F5L-u5bGF5aOr,size_20,color_FFFFFF,t_70,g_se,x_16)
 
-
+# 论文
+'Peng, J., <b>Chen, Q.</b>, Kang, L., Jie, H., & Han, Y. (2022). "Autonomous recognition of multiple surgical instruments tips based on arrow OBB-YOLO network." <i>IEEE Transactions on Instrumentation and Measurement</i>, 71, 1–13.'
 
 
 
